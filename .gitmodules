@@ -1,3 +1,6 @@
 [submodule "css"]
 	path = css
 	url = https://github.com/TanishqGupta1234/Style--work.git
+[submodule "Javascript-Work"]
+	path = Javascript-Work
+	url = https://github.com/TanishqGupta1234/Javascript-Work.git
